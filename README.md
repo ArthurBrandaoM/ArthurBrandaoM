@@ -13,5 +13,5 @@ Sou um estudante de Sistemas de Informação na Universidade de São Paulo(USP) 
 - **Linguagens:** C, HTML, CSS
 
 Mais sobre mim:
-[LinkedIn](https://www.linkedin.com/in/arthurbrandaodamata/)
+👨🏻[LinkedIn](https://www.linkedin.com/in/arthurbrandaodamata/)
   
