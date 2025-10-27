@@ -6,7 +6,6 @@ Sou um estudante de Sistemas de Informação na Universidade de São Paulo(USP) 
 ## O que você vai encontrar aqui:
 - Projetos feitos por curiosidade
 - Projetos em equipe e acadêmicos
-- **Em breve* * Contribuições em open sources
 
 ## Tecnologias que uso👀:
 - **Ferramentas:** VS Code
